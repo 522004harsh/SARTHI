@@ -26,7 +26,8 @@ RUN pip install --no-cache-dir --upgrade pip \
     langdetect \
     transformers \
     torch \
-    requests
+    requests \
+    google-generativeai
 
 # Expose the port Flask runs on
 EXPOSE 5000
