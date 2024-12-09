@@ -1,0 +1,7 @@
+Flask
+geocoder
+langdetect
+transformers
+torch
+requests
+flask-cors
